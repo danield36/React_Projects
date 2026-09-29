@@ -1,20 +1,20 @@
-![React_Projects](https://socialify.git.ci/walidbosso/React_Projects/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![React_Projects](https://socialify.git.ci/danield36/React_Projects/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center">
-<a href="https://github.com/walidbosso/React_Projects">
+<a href="https://github.com/danield36/React_Projects">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/React_Projects)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danield36&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/danield36/React_Projects)
 
   <p align="center">
-<a href="https://github.com/walidbosso/React_Projects">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FReact_Projects&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/danield36/React_Projects">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanield36%2FReact_Projects&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/React_Projects">
+<a href="https://github.com/danield36/React_Projects">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -107,11 +107,7 @@ Happy coding!
 
 <div align="center">
   
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
 
-<details open>
 
 <summary>👏 Thanks for the support </summary>
 
@@ -120,7 +116,7 @@ Happy coding!
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/React_Projects](http://reporoster.com/stars/dark/walidbosso/React_Projects)](https://github.com/walidbosso/React_Projects/stargazers)
+[![Stargazers repo roster for @danield36/React_Projects](http://reporoster.com/stars/dark/danield36/React_Projects)](https://github.com/danield36/React_Projects/stargazers)
 
 
 
@@ -130,14 +126,14 @@ Happy coding!
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/React_Projects](http://reporoster.com/forks/dark/walidbosso/React_Projects)](https://github.com/walidbosso/React_Projects/network/members)
+[![Forkers repo roster for @danield36/React_Projects](http://reporoster.com/forks/dark/danield36/React_Projects)](https://github.com/danield36/React_Projects/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/React_Projects"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://contrib.rocks/image?repo=danield36/React_Projects"/>
 </a>
 
 
@@ -145,14 +141,14 @@ Happy coding!
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/danield36"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=danield36&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/React_Projects?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/danield36/React_Projects?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/React_Projects?style=social)
+![GitHub License](https://img.shields.io/github/license/danield36/React_Projects?style=social)
 
 
 
@@ -160,16 +156,16 @@ Happy coding!
 </div>
 
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 
